@@ -33,4 +33,12 @@ Check the repo for more information: https://github.com/cjhutto/vaderSentiment
 RoBERTa - Despite her name (Roberta is an Italian maiden name), she is not human, Roberta is an AI developed and can be downloaded from HuggingFace. Technically, from January 2018 to December 2021 she is a self-supervised natural language processing (NLP) model trained on over 124 million tweets.
 The model I used is the base model trained on approx 58M tweets. The detailed description about the model can be found here: https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment
 
+## Results
+### Comparision on single ID
+![plot compaision for vader and roberta](https://user-images.githubusercontent.com/85514219/227788285-caed2805-eb06-4848-862c-a2d8da2a7fff.png)
+
+### Comparision on entire Dataset
+![vader and roberta](https://user-images.githubusercontent.com/85514219/227788321-09ac0ad9-9fa2-4b86-8cf5-6f747a928038.png)
+
+
 ### Thank you
