@@ -1,4 +1,4 @@
-# NLTK_Sentimental_Analysis
+# NLTK_Product_Sentimental_Analysis
 
 ## Overview
 Ratings analytics examine customer and product ratings from different channels to gain insights. These insights can be used to improve your products and services, create new products, or improve the overall customer experience.
